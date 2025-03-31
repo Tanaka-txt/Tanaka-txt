@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=341D47&height=120&section=header"/>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="" src="./Pasta/header-gif.gif">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanaka-txt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&title_color=341D47&icon_color=341D47&text_color=341D47&bg_color=caa5eb" height="150px" alt="stats graph"  />
