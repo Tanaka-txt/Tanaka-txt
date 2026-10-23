@@ -1,4 +1,6 @@
 {
+  "username": "Tanaka-txt",
+  "profileSlug": "default",
   "widgets": [
     {
       "widgetId": "header",
@@ -20583,7 +20585,7 @@
         ],
         "imageUrl": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.webp",
         "cardRawUrl": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.png",
-        "enableHolo": true,
+        "enableHolo": false,
         "hideDecorations": false,
         "accentColor": "#00ff2a",
         "backgroundColor": "#00ff40",
