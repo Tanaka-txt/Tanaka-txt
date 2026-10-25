@@ -1,6 +1,4 @@
 {
-  "username": "Tanaka-txt",
-  "profileSlug": "default",
   "widgets": [
     {
       "widgetId": "header",
@@ -20472,12 +20470,12 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 516,
-        "y": 318
+        "x": 670,
+        "y": 628
       },
       "size": {
-        "width": 144,
-        "height": 210
+        "width": 112,
+        "height": 148
       },
       "config": {
         "searchQuery": "Mewtwo",
@@ -20627,6 +20625,37 @@
       "locked": false,
       "visible": true,
       "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1792959368667",
+      "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
+      "position": {
+        "x": 390,
+        "y": 318
+      },
+      "size": {
+        "width": 400,
+        "height": 216
+      },
+      "config": {
+        "statType": "top-langs",
+        "theme": "merko",
+        "textColor": "#00ff06",
+        "hideBorder": true,
+        "hideDecorations": false,
+        "layout": "compact",
+        "langsCount": 6,
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "animationDuration": 3000,
+        "animationDelay": 50,
+        "accentColor": "#00ff06",
+        "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
     }
   ],
   "globalStyles": {
